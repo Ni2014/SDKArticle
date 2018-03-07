@@ -1,6 +1,6 @@
-##起因
+## 起因
     前几天一个在某公司的朋友说起来他那边的SDK相对不太规范和好用，使用的人都要在回调方法中用Handler去做线程切换的事情，问我有没好的思路或这边的解决办法。
-##经过
+## 经过
     Bmob的数据服务SDK在3.5.0之前网络请求用的是Volley库，使用Volley时，可以发现onSuccess和onFailure方法是在主线程被回调的，也就是SDK内部用Volley的话，就不用自己去做线程切换了，此时就好奇了，带着问题翻Volley的源码。
     
     调用Voleley的newRequestQueue()方法时会调用到RequestQueue的start()方法。
