@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans>
+    <bean id="coderDao" class="code.allen.sdkarticle.mockSpringIOC.CoderDaoImpl" />
+    <bean id="coderService" class="code.allen.sdkarticle.mockSpringIOC.CoderServiceImpl" >
+        <property name="coderDao" bean="coderDao"/>
+    </bean>
+</beans>

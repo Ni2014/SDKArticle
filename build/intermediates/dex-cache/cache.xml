@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/allenni/.android/build-cache/42d14f0631bcc34536b7eb385cccabe1160a2014/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="/Users/allenni/Desktop/githubCode/SDKArticleGithub/SDKArticle/app/build/intermediates/pre-dexed/debug/classes_2b6be932055bea55544fa4dadd757e1a11951a46.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/allenni/.android/build-cache/ce6acecb1f6b92c1462a5788a8ccf3a49e68ea63/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="/Users/allenni/Desktop/githubCode/SDKArticleGithub/SDKArticle/app/build/intermediates/pre-dexed/debug/classes_cab5c965bfd5bd0cff58345bbaf5d8d1bddab44f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/allenni/.android/build-cache/0e3a549e2207f051ab471b110e6a69805e6ed5f1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/Users/allenni/Desktop/githubCode/SDKArticleGithub/SDKArticle/app/build/intermediates/pre-dexed/debug/classes_b1aee493b77a841cfdb857efb6977d8aa5bac331.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/allenni/.android/build-cache/36ec0ce56941d1430f890ddc09894ec38682365e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/Users/allenni/Desktop/githubCode/SDKArticleGithub/SDKArticle/app/build/intermediates/pre-dexed/debug/classes_2bff548ed232212ef455a0ba43f5c4fd74cfb2c7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/allenni/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/Users/allenni/Desktop/githubCode/SDKArticleGithub/SDKArticle/app/build/intermediates/pre-dexed/debug/support-annotations-26.0.0-alpha1_47bfecc41f874337d6ef18fdf710c170ce19f73d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/allenni/.gradle/caches/modules-2/files-2.1/org.jdom/jdom2/2.0.5/2001db51c131e555bafdb77fc52af6a9408c505e/jdom2-2.0.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2001db51c131e555bafdb77fc52af6a9408c505e">
+        <dex dex="/Users/allenni/Desktop/githubCode/SDKArticleGithub/SDKArticle/app/build/intermediates/pre-dexed/debug/jdom2-2.0.5_4fc8c310f6d3c7eecd1d06b8fd64287cc279559d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/allenni/.android/build-cache/6ab23aad8e0b596aee07623b0e2e59d43e77a35d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/Users/allenni/Desktop/githubCode/SDKArticleGithub/SDKArticle/app/build/intermediates/pre-dexed/debug/classes_25b1fccef0140d007285a6a43fe0fd77bb37d3a7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/allenni/.android/build-cache/e70b4c754b66d31bd3595596fcdbf57b95b7dca1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/Users/allenni/Desktop/githubCode/SDKArticleGithub/SDKArticle/app/build/intermediates/pre-dexed/debug/classes_3dfcfbf621cf77318a4432df2513dcdb0500bebc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/allenni/.android/build-cache/4d426545c3feec37f9fd15ba1655d757ff1fb9f0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="/Users/allenni/Desktop/githubCode/SDKArticleGithub/SDKArticle/app/build/intermediates/pre-dexed/debug/classes_c99046808b57baacc2db5ad8fea2b78ce3ea1f2a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/allenni/.android/build-cache/20ec0ddc1e41ffe08f1f12fbf9d1b90195c410e3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/allenni/Desktop/githubCode/SDKArticleGithub/SDKArticle/app/build/intermediates/pre-dexed/debug/classes_caa20e99c8719ad8c8d0cb0a2aea94d049fef51c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/allenni/.android/build-cache/847192397caae48ebdf7f4fdb01173df8e54c440/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/Users/allenni/Desktop/githubCode/SDKArticleGithub/SDKArticle/app/build/intermediates/pre-dexed/debug/classes_80bf1983e3d746e792b14b4c71a8000dc47aae72.jar" />
+    </item>
+
+</items>
