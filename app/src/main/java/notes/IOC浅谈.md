@@ -1,5 +1,3 @@
-## IOC浅谈
-
 ### 什么是IOC
     Inversion of Control 俗称控制反转
     把代码中需要的对象(组件)交由IOC容器创建和控制

@@ -2,10 +2,12 @@ package code.allen.sdkarticle.annotationIOC;
 
 import android.app.Activity;
 
+import java.lang.annotation.Annotation;
 import java.lang.reflect.Field;
 import java.lang.reflect.Method;
 
 import code.allen.sdkarticle.annotationIOC.annotations.ContentView;
+import code.allen.sdkarticle.annotationIOC.annotations.EventBase;
 import code.allen.sdkarticle.annotationIOC.annotations.ViewInject;
 
 /**
@@ -16,6 +18,7 @@ public class ViewInjectHelper {
     public static void inject(Activity activity){
         injectContentView(activity);
         injectViews(activity);
+        injectEvents(activity);
     }
 
     /**
@@ -63,4 +66,32 @@ public class ViewInjectHelper {
         }
 
     }
+
+
+    private static void injectEvents(Activity activity){
+        Class<? extends Activity> clazz = activity.getClass();
+        Method[] methods = clazz.getMethods();
+        for (Method method : methods) {
+            // 取到方法上的注解
+            Annotation[] annotations = method.getAnnotations();
+            for (Annotation annotation : annotations) {
+                Class<? extends Annotation> annotationType = annotation.annotationType();
+                // 取到注解上的注解
+                EventBase eventBase = annotationType.getAnnotation(EventBase.class);
+                if (eventBase != null){
+                    String listenerSetter = eventBase.listenerSetter();
+                    Class<?> listenerType = eventBase.listenerType();
+                    String methodName = eventBase.methodName();
+
+                    try {
+                        Method vMethod = annotationType.getDeclaredMethod("value");
+
+                    } catch (NoSuchMethodException e) {
+                        e.printStackTrace();
+                    }
+                }
+            }
+        }
+    }
+
 }
