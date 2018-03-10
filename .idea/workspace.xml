@@ -10,37 +10,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="832e95bc-4bea-48c7-83d8-7950a9b9667c" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/code/allen/sdkarticle/annotationIOC/annotations/EventBase.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/code/allen/sdkarticle/annotationIOC/annotations/OnClick.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/code/allen/sdkarticle/observerToRx/Client.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/code/allen/sdkarticle/observerToRx/ConcreteObserver.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/code/allen/sdkarticle/observerToRx/ConcreteSubject.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/code/allen/sdkarticle/observerToRx/Observer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/code/allen/sdkarticle/observerToRx/Subject.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/code/allen/sdkarticle/observerToRx/Test.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/code/allen/sdkarticle/observerToRx/anotherObserver/Observable.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/code/allen/sdkarticle/observerToRx/anotherObserver/Observer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/code/allen/sdkarticle/observerToRx/anotherObserver/Test.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/code/allen/sdkarticle/observerToRx/anotherObserver/v1/Observable.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/code/allen/sdkarticle/observerToRx/anotherObserver/v1/Observer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/code/allen/sdkarticle/observerToRx/anotherObserver/v1/Test.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/code/allen/sdkarticle/observerToRx/inAndroid/CallbackDemo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/notes/从观察者到响应式.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/notes/写一个简单的注解库-01.md" afterPath="$PROJECT_DIR$/app/src/main/java/notes/写一个简单的注解库.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/fileHashes.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/fileSnapshots.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/taskArtifacts.bin" afterPath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/taskArtifacts.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/taskArtifacts.lock" afterPath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/taskArtifacts.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/tasks/_app_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.bin" afterPath="$PROJECT_DIR$/.gradle/3.3/tasks/_app_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/tasks/_app_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock" afterPath="$PROJECT_DIR$/.gradle/3.3/tasks/_app_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/tasks/_app_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock" afterPath="$PROJECT_DIR$/.gradle/3.3/tasks/_app_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/notes/SDK的自白.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/notes/聊聊反射.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SDKArticle.iml" afterPath="$PROJECT_DIR$/SDKArticle.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/app.iml" afterPath="$PROJECT_DIR$/app/app.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build.gradle" afterPath="$PROJECT_DIR$/app/build.gradle" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/code/allen/sdkarticle/annotationIOC/ViewInjectHelper.java" afterPath="$PROJECT_DIR$/app/src/main/java/code/allen/sdkarticle/annotationIOC/ViewInjectHelper.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/notes/IOC浅谈.md" afterPath="$PROJECT_DIR$/app/src/main/java/notes/IOC浅谈.md" />
     </list>
     <ignored path="SDKArticle.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -96,12 +68,70 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="从观察者到响应式.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="从观察者到响应式.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/notes/从观察者到响应式.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="874">
                 <caret line="46" column="41" selection-start-line="46" selection-start-column="41" selection-end-line="46" selection-end-column="41" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+          <provider editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="0">
+                <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor>
+                <js_state />
+              </second_editor>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SDK的自白.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/notes/SDK的自白.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="-994">
+                <caret line="10" column="118" selection-start-line="10" selection-start-column="118" selection-end-line="10" selection-end-column="118" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+          <provider editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="0">
+                <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor>
+                <js_state />
+              </second_editor>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Client.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/code/allen/sdkarticle/observerToRx/Client.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="133">
+              <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="聊聊反射.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/notes/聊聊反射.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="19">
+                <caret line="1" column="8" selection-start-line="1" selection-start-column="8" selection-end-line="1" selection-end-column="8" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -128,26 +158,6 @@
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Client.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/code/allen/sdkarticle/observerToRx/Client.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="11" column="29" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Observable.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/code/allen/sdkarticle/observerToRx/anotherObserver/Observable.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="15" column="30" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -189,16 +199,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="133">
               <caret line="7" column="25" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Observer.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/code/allen/sdkarticle/observerToRx/anotherObserver/Observer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="7" column="30" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
               <folding />
             </state>
           </provider>
@@ -2098,7 +2098,6 @@
         <option value="$PROJECT_DIR$/app/src/main/java/code/allen/sdkarticle/observerToRx/Subject.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/code/allen/sdkarticle/observerToRx/ConcreteSubject.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/code/allen/sdkarticle/observerToRx/ConcreteObserver.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/code/allen/sdkarticle/observerToRx/Client.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/code/allen/sdkarticle/observerToRx/anotherObserver/Observer.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/code/allen/sdkarticle/observerToRx/anotherObserver/Observable.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/code/allen/sdkarticle/observerToRx/anotherObserver/Test.java" />
@@ -2109,14 +2108,17 @@
         <option value="$PROJECT_DIR$/app/src/main/java/code/allen/sdkarticle/observerToRx/inSwing/Demo.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/code/allen/sdkarticle/observerToRx/inAndroid/CallbackDemo.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/notes/从观察者到响应式.md" />
+        <option value="$PROJECT_DIR$/app/src/main/java/notes/聊聊反射.md" />
+        <option value="$PROJECT_DIR$/app/src/main/java/code/allen/sdkarticle/observerToRx/Client.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/notes/SDK的自白.md" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="223" />
-    <option name="y" value="104" />
+    <option name="x" value="186" />
+    <option name="y" value="101" />
     <option name="width" value="1280" />
-    <option name="height" value="751" />
+    <option name="height" value="750" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -2701,11 +2703,11 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="223" y="104" width="1280" height="751" extended-state="0" />
+    <frame x="186" y="101" width="1280" height="750" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.056692913" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.056782335" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -2759,61 +2761,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/code/allen/sdkarticle/mockSpringIOC/ClassPathXmlApplicationContext.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="23" column="58" selection-start-line="23" selection-start-column="58" selection-end-line="23" selection-end-column="58" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jdom/jdom2/2.0.5/769f3cca4ce92088288be3d0238ef96ef787e82f/jdom2-2.0.5-sources.jar!/org/jdom2/input/SAXBuilder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18240">
-          <caret line="1087" column="20" selection-start-line="1087" selection-start-column="20" selection-end-line="1087" selection-end-column="20" />
-          <folding>
-            <element signature="e#0#42861#0" expanded="false" />
-            <element signature="imports" expanded="false" />
-            <element signature="e#8304#8305#0" expanded="false" />
-            <element signature="e#8333#8334#0" expanded="false" />
-            <element signature="e#9980#9981#0" expanded="false" />
-            <element signature="e#10014#10015#0" expanded="false" />
-            <element signature="e#11575#11576#0" expanded="false" />
-            <element signature="e#11611#11612#0" expanded="false" />
-            <element signature="e#13889#13890#0" expanded="false" />
-            <element signature="e#13919#13920#0" expanded="false" />
-            <element signature="e#14078#14079#0" expanded="false" />
-            <element signature="e#14099#14100#0" expanded="false" />
-            <element signature="e#14446#14447#0" expanded="false" />
-            <element signature="e#14476#14477#0" expanded="false" />
-            <element signature="e#14939#14940#0" expanded="false" />
-            <element signature="e#14962#14963#0" expanded="false" />
-            <element signature="e#15517#15518#0" expanded="false" />
-            <element signature="e#15541#15542#0" expanded="false" />
-            <element signature="e#16171#16172#0" expanded="false" />
-            <element signature="e#16199#16200#0" expanded="false" />
-            <element signature="e#16394#16395#0" expanded="false" />
-            <element signature="e#16432#16433#0" expanded="false" />
-            <element signature="e#18256#18257#0" expanded="false" />
-            <element signature="e#18285#18286#0" expanded="false" />
-            <element signature="e#18809#18810#0" expanded="false" />
-            <element signature="e#18840#18841#0" expanded="false" />
-            <element signature="e#19340#19341#0" expanded="false" />
-            <element signature="e#19367#19368#0" expanded="false" />
-            <element signature="e#19889#19890#0" expanded="false" />
-            <element signature="e#19915#19916#0" expanded="false" />
-            <element signature="e#20897#20898#0" expanded="false" />
-            <element signature="e#20924#20925#0" expanded="false" />
-            <element signature="e#21924#21925#0" expanded="false" />
-            <element signature="e#21959#21960#0" expanded="false" />
-            <element signature="e#23218#23219#0" expanded="false" />
-            <element signature="e#23238#23239#0" expanded="false" />
-            <element signature="e#24532#24533#0" expanded="false" />
-            <element signature="e#24557#24558#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/beans.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="57">
@@ -3192,14 +3139,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/code/allen/sdkarticle/observerToRx/Client.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="29" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/code/allen/sdkarticle/observerToRx/anotherObserver/Observer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="133">
@@ -3295,6 +3234,58 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="874">
             <caret line="46" column="41" selection-start-line="46" selection-start-column="41" selection-end-line="46" selection-end-column="41" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/notes/聊聊反射.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="19">
+            <caret line="1" column="8" selection-start-line="1" selection-start-column="8" selection-end-line="1" selection-end-column="8" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/code/allen/sdkarticle/observerToRx/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/notes/SDK的自白.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-994">
+            <caret line="10" column="118" selection-start-line="10" selection-start-column="118" selection-end-line="10" selection-end-column="118" />
             <folding />
           </first_editor>
           <second_editor />
